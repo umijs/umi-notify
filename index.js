@@ -2,6 +2,7 @@ const chalk = require('chalk');
 const isAliEnv = require('is-ali-env');
 
 function useBigfish(type, pkg) {
+  if (process.env.MONITOR === 'none') return;
   isAliEnv().then(val => {
     let stopMsg = pkg.name === 'roadhog'
       ? `${pkg.name} 将于 2019.3.1 停止维护`
