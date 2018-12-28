@@ -1,7 +1,7 @@
 {
   "name": "umi-notify",
   "version": "0.0.1",
-  "description": "notification package for all cli we maintained.",
+  "description": "Notification package for all cli we maintained.",
   "main": "index.js",
   "scripts": {
     "prepublishOnly": "np --no-cleanup --yolo --no-publish"
