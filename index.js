@@ -27,10 +27,12 @@ const messages = {
     roadhog: [useBigfish],
     'atool-build': [useBigfish],
   },
+  devStart: {
+    dora: [useBigfish],
+  },
   devComplete: {
     roadhog: [useBigfish],
     'atool-build': [useBigfish],
-    dora: [useBigfish],
   },
 };
 
