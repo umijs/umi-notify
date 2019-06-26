@@ -1,6 +1,6 @@
 # umi-notify
 
-Notification package for all cli we maintained.
+Notification package for all tools we maintained.
 
 ---
 
