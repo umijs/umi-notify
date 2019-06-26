@@ -6,7 +6,7 @@ function useBigfish(type, pkg) {
   isAliEnv().then(val => {
     if (val) {
       let stopMsg = pkg.name === 'roadhog'
-        ? `${pkg.name} 将于 2019.3.1 停止维护`
+        ? `${pkg.name} 已于 2019.3.1 停止维护`
         : `${pkg.name} 已停止维护`;
       console.log(`
 ---
