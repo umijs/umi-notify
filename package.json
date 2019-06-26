@@ -16,5 +16,8 @@
   "devDependencies": {
     "np": "^3.1.0"
   },
+  "files": [
+    "index.js"
+  ],
   "license": "MIT"
 }
