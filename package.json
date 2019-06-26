@@ -1,6 +1,6 @@
 {
   "name": "umi-notify",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "description": "Notification package for all cli we maintained.",
   "main": "index.js",
   "scripts": {
